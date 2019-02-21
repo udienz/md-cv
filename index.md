@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Mahyuddin's CV
+title: Mahyuddins CV
 ---
 # Mahyuddin Susanto
 Network engineer and devops
