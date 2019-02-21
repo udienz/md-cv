@@ -1,0 +1,7 @@
+#!/bin/bash
+
+PATH="$HOME/bin:$HOME/.local/bin:$PATH"
+
+cd /srv/cv.udienz.web.id/md-cv
+git pull origin master
+/usr/bin/jekyll build -d /srv/cv.udienz.web.id/www/
